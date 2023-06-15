@@ -1,4 +1,4 @@
-# OIBSIO
+# OIBSIP
 
 #POSTER
 ![poster](https://github.com/Jyothipriya12/OIBSIO/assets/136612991/9fa62016-736a-44b5-bdd6-5f26bb818b0f)
